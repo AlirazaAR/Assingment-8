@@ -1,0 +1,13 @@
+C:\Users\92307\Desktop\Marks\obj\Debug\netcoreapp3.1\Marks.csprojAssemblyReference.cache
+C:\Users\92307\Desktop\Marks\obj\Debug\netcoreapp3.1\Marks.AssemblyInfoInputs.cache
+C:\Users\92307\Desktop\Marks\obj\Debug\netcoreapp3.1\Marks.AssemblyInfo.cs
+C:\Users\92307\Desktop\Marks\obj\Debug\netcoreapp3.1\Marks.csproj.CoreCompileInputs.cache
+C:\Users\92307\Desktop\Marks\bin\Debug\netcoreapp3.1\Marks.exe
+C:\Users\92307\Desktop\Marks\bin\Debug\netcoreapp3.1\Marks.deps.json
+C:\Users\92307\Desktop\Marks\bin\Debug\netcoreapp3.1\Marks.runtimeconfig.json
+C:\Users\92307\Desktop\Marks\bin\Debug\netcoreapp3.1\Marks.runtimeconfig.dev.json
+C:\Users\92307\Desktop\Marks\bin\Debug\netcoreapp3.1\Marks.dll
+C:\Users\92307\Desktop\Marks\bin\Debug\netcoreapp3.1\Marks.pdb
+C:\Users\92307\Desktop\Marks\obj\Debug\netcoreapp3.1\Marks.dll
+C:\Users\92307\Desktop\Marks\obj\Debug\netcoreapp3.1\Marks.pdb
+C:\Users\92307\Desktop\Marks\obj\Debug\netcoreapp3.1\Marks.genruntimeconfig.cache
